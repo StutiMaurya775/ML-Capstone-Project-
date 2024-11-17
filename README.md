@@ -50,4 +50,4 @@ The project follows the following steps:
 ## *Setup Instructions*
 1. Clone the repository:
    ```bash
-    https://github.com/StutiMaurya775/ML-Capstone-Project-/edit/main/README.md
+   https://github.com/StutiMaurya775/ML-Capstone-Project-/edit/main/README.md
